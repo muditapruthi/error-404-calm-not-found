@@ -1,6 +1,7 @@
 export default function Home() {
   return (
-    <main className="min-h-screen bg-zinc-50 dark:bg-black text-zinc-900 dark:text-zinc-100 px-6 py-20">
+    <main className="min-h-screen bg-zinc-100 dark:bg-zinc-950 text-zinc-900 dark:text-zinc-100 px-6 py-20 transition-colors duration-300">
+
       <div className="mx-auto max-w-3xl space-y-24">
 
         {/* 1️⃣ HERO SECTION */}
